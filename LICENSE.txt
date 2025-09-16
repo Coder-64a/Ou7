@@ -1,0 +1,7 @@
+Copyright (c) 2025 Coder-64a
+
+Permission is granted to any individual to use, copy, and modify this software for personal, non-commercial purposes only.
+
+Commercial use, redistribution, sublicensing, and incorporation into commercial products are strictly prohibited without prior written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
